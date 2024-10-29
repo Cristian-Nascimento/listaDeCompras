@@ -2,34 +2,34 @@
 
 # Casos de Uso
 
-- Cadastrar Produto:
+- Cadastrar Produto: 
 O usuário deve ser capaz de inserir o nome do produto e o seu valor, e o sistema deve ser capaz de inserir no banco de dados
 
-- Consultar produto
+- Consultar produto: 
 O usuário deve inserir palavras para encontrar o produto em lista
 
-- Alterar dados dos produtos
+- Alterar dados dos produtos: 
 O usuário deve ser capaz de alterar o nome do produto, e o sistema deve ser capaz de armazenar a alteração
 
-- Remover o produto
+- Remover o produto: 
 O usuário deve ser capaz de remover o produto 
 
-- Cadastrar lista
-O usuário deve ser capaz de cadastrar lista com os seguintes dados
-. Local
-. Valor
-. data
+- Cadastrar lista: 
+O usuário deve ser capaz de cadastrar lista com os seguintes dados 
+. Local 
+. Valor 
+. data 
 
-- Editar lista
+- Editar lista: 
 O usuário deve ser capaz de editar dados de uma lista
 
-- Inserir produtos na lista
+- Inserir produtos na lista: 
 O usuário deve ser capaz de inserir um produto em uma determinada lista
 
-- Remover lista
+- Remover lista: 
 O usuário deve ser capaz de remover um produto de uma lista.
 
-- Fechamento de custo
+- Fechamento de custo: 
 O usuário deve ser capaz de visualizar o fechamento da lista com a somatória do valor de cada produto d lista.
 
 
